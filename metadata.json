@@ -1,0 +1,5 @@
+{
+  "name": "CTT Resume Screener",
+  "description": "An intelligent application that screens and ranks candidates by comparing their resumes against a job description using the power of the Gemini API.",
+  "requestFramePermissions": []
+}
